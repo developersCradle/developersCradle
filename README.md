@@ -4,7 +4,7 @@
 
 
 
-## :🌱: Some learning platfroms 
+## 🌱 Some learning platfroms 
 [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/dreamLiver)
 
 <br>
