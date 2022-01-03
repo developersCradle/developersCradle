@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Heikki, enthusiastic learner. Just adding this and moving along 👋
+
+![Profile views](https://gpvc.arturio.dev/developersCradle) and ## [![Profile views](https://visitor-badge.glitch.me/badge?page_id=developersCradle.developersCradle)](https://github.com/developersCradle)
 
 <!--
 **developersCradle/developersCradle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
