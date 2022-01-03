@@ -2,12 +2,12 @@
 
 ![Profile views](https://gpvc.arturio.dev/developersCradle) and [![Profile views](https://visitor-badge.glitch.me/badge?page_id=developersCradle.developersCradle)](https://github.com/developersCradle)
 
-- 🌱 Some learning platfroms ...
 
-<br>
 
+## :🌱: Some learning platfroms 
 [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/dreamLiver)
 
+<br>
 
 
 
