@@ -36,6 +36,9 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](#)
 [![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)](#)
+[![JavaFX](https://img.shields.io/badge/-javaFX%20-red)](#)
+[![GWT](https://img.shields.io/badge/-gwt%20-red)](#)
+
 <br>
 
 ### todo put reasons for levels, when time
