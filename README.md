@@ -1,9 +1,9 @@
 ### Hi there, I am Heikki, enthusiastic learner. Just adding this and moving along 👋
 
-[![Profile views](https://gpvc.arturio.dev/developersCradle)] and [![Profile views](https://visitor-badge.glitch.me/badge?page_id=developersCradle.developersCradle)](https://github.com/developersCradle)
+[Profile views](https://gpvc.arturio.dev/developersCradle) and [![Profile views](https://visitor-badge.glitch.me/badge?page_id=developersCradle.developersCradle)](https://github.com/developersCradle)
 
 <br>
-[![Last update](https://img.shields.io/github/last-commit/developersCradle/developersCradle?label=Last%20update)]
+[Last update](https://img.shields.io/github/last-commit/developersCradle/developersCradle?label=Last%20update)
 
 
 ## 🌱 Some learning platfroms 
