@@ -1,8 +1,7 @@
 ### Hi there, I am Heikki, enthusiastic learner. Just adding this and moving along 👋
 
-![Profile views](https://gpvc.arturio.dev/developersCradle) and [![Profile views](https://visitor-badge.glitch.me/badge?page_id=developersCradle.developersCradle)](https://github.com/developersCradle)
+![Profile views](https://gpvc.arturio.dev/developersCradle) and [![Profile views](https://visitor-badge.glitch.me/badge?page_id=developersCradle.developersCradle)](https://github.com/developersCradle) and last update on front page was ![Last update](https://img.shields.io/github/last-commit/developersCradle/developersCradle?label=Last%20update&logo=https%3A%2F%2Fimg.shields.io%2Fgithub%2Flast-commit%2FdevelopersCradle%2FdevelopersCradle%3Flabel%3DLast%2520update)
 
-![Last update](https://img.shields.io/github/last-commit/developersCradle/developersCradle?label=Last%20update&logo=https%3A%2F%2Fimg.shields.io%2Fgithub%2Flast-commit%2FdevelopersCradle%2FdevelopersCradle%3Flabel%3DLast%2520update)
 
 
 
