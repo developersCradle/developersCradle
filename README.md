@@ -54,7 +54,7 @@ Currently, focusing on!  :hammer::fire::green_book:
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](#)
 [![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)](#)
 [![JavaFX](https://img.shields.io/badge/-javaFX%20-red)](#)
-[![GWT](https://img.shields.io/badge/-gwt%20-red)](#)
+[![GWT](https://img.shields.io/badge/-gwt%20-red)](##, "Job experience, Course experience")
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
@@ -65,9 +65,12 @@ Currently, focusing on!  :hammer::fire::green_book:
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
 ![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
-![Flyway](https://img.shields.io/static/v1?style=for-the-badge&message=Flyway&color=CC0200&logo=Flyway&logoColor=FFFFFF&label=)
+[![Flyway](https://img.shields.io/static/v1?style=for-the-badge&message=Flyway&color=CC0200&logo=Flyway&logoColor=FFFFFF&label=)](##, "Job experience")
 ![LastPass](https://img.shields.io/static/v1?style=for-the-badge&message=LastPass&color=D32D27&logo=LastPass&logoColor=FFFFFF&label=)
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](##, "Interview task problem, Course Experience")
+[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](##, "Job experience(Integrated Power Bi into Angular app, not Power Bi experience itself)")
+
 <br>
 
-### to-do put reasons for levels, when time
+### to-do put reasons for levels and tools, when time
 
