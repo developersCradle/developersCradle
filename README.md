@@ -21,12 +21,12 @@ Currently, focusing on!  :hammer::fire::green_book:
 
 - Level 5<br>
 - Level 4<br>
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](##, "Mainly work experience, Own project experience, Course Experience")
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](##, "Mainly work experience, Own project experience, Course experience")
 - Level 3<br>
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](##, "Work experience, Own project experience, Course experience")
 - Level 2<br>
-[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](#)
+[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](##, "Some work experience, Own project experience(weather station and thesis), Course experience")
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](##, "Rides along with c++, Some studies overlapped with c++")
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](##, "School courses with exelent grades! From Basics and advanced courses, Coding stream following(code along)")
 [![Css Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
@@ -51,14 +51,14 @@ Currently, focusing on!  :hammer::fire::green_book:
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](#)
+[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](##, "Job experience")
 [![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)](#)
 [![JavaFX](https://img.shields.io/badge/-javaFX%20-red)](#)
 [![GWT](https://img.shields.io/badge/-gwt%20-red)](##, "Job experience, Course experience")
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](##, "School project(Toy Trail), Course Experience")
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](##, "School project(Toy Trail), Course Experience, School Experience, Book Experience")
 ![Apache Tomcat](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Tomcat&color=222222&logo=Apache+Tomcat&logoColor=F8DC75&label=)
 ![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
 ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
@@ -71,6 +71,10 @@ Currently, focusing on!  :hammer::fire::green_book:
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](##, "Job experience(Integrated Power Bi into Angular app, not Power Bi experience itself)")
 
 <br>
+
+<img src="coolBannerMeSoSmart.jpg" alt="alt text" width="400"/>
+
+
 
 ### to-do put reasons for levels and tools, when time
 
