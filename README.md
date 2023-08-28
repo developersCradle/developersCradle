@@ -3,6 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/developersCradle) and [![Profile views](https://visitor-badge.glitch.me/badge?page_id=developersCradle.developersCradle)](https://github.com/developersCradle) and last update on front page was ![Last update](https://img.shields.io/github/last-commit/developersCradle/developersCradle?label=Last%20update&logo=https%3A%2F%2Fimg.shields.io%2Fgithub%2Flast-commit%2FdevelopersCradle%2FdevelopersCradle%3Flabel%3DLast%2520update)
 
 
+
 Currently, focusing on!  :hammer::fire::green_book:
 
 [![#](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
@@ -74,7 +75,13 @@ Currently, focusing on!  :hammer::fire::green_book:
 
 <img src="coolBannerMeSoSmart.jpg" alt="alt text" width="400"/>
 
-
-
 ### to-do put reasons for levels and tools, when time
+
+
+- ⚡ About me
+    - **Sports:** <font color="green"><b>Gym/Walking</b></font> over <font color="red"><b>Intense sports</b></font>
+    - **Work Values:** 
+    <font color="green"><b>Collective/Synergy</b></font> over <font color="red"><b>Competition</b></font>. **As long** &rarr; In tech, there is too much information for one to rule. That being said, you should try your best, since you were accepted in the first place.
+    <font color="green"><b>Easy Going</b></font> over <font color="red"><b>High energy</b></font>.&rarr; Things go crazy very fast, its better not invest too much emotional energy to thing which cannot be affected here and now.  **As long** &rarr; You did or try the thing what you were given. High energy focus has its place nonetheless!
+
 
