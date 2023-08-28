@@ -76,12 +76,12 @@ Currently, focusing on!  :hammer::fire::green_book:
 <img src="coolBannerMeSoSmart.jpg" alt="alt text" width="400"/>
 
 ### to-do put reasons for levels and tools, when time
-
+- Todo figure out colors
 
 - ⚡ About me
     - **Sports:** <font color="green"><b>Gym/Walking</b></font> over <font color="red"><b>Intense sports</b></font>
     - **Work Values:** 
-    <font color="green"><b>Collective/Synergy</b></font> over <font color="red"><b>Competition</b></font>. **As long** &rarr; In tech, there is too much information for one to rule. That being said, you should try your best, since you were accepted in the first place.
+    <font color="green"><b>Collective/Synergy</b></font> over <font color="red"><b>Competition</b></font>. **As long** &rarr; In tech, there is too much information for one to rule. That being said, you should try your best, since you were accepted in the first place. <br>
     <font color="green"><b>Easy Going</b></font> over <font color="red"><b>High energy</b></font>.&rarr; Things go crazy very fast, its better not invest too much emotional energy to thing which cannot be affected here and now.  **As long** &rarr; You did or try the thing what you were given. High energy focus has its place nonetheless!
 
 
