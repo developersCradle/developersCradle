@@ -83,6 +83,7 @@ $$
 $$
 \textbf{Work Values:} \space {\color{green}Collective/Synergy} \space over \space{\color{red}Competition}. \space \textbf{As long} \longrightarrow
 $$
+<!-- figure out how to do this -->
 $$
 In \space tech, \space \\ 
 there \space is  \space too \space much \space information \space for \space one \space to \space rule.
