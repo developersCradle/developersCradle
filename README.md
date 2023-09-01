@@ -84,7 +84,11 @@ $$
 $$
 
 $$
-\textbf{Work Values:} \space {\color{green}Collective/Synergy} \space over \space{\color{red}Competition}. \space \textbf{As long} \longrightarrow
+\textbf{Work Values:}
+$$
+
+$$ 
+{\color{green}Collective/Synergy} \space over \space{\color{red}Competition}. \space \textbf{As long} \longrightarrow
 $$
 
 $$
