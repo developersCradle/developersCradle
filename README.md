@@ -87,7 +87,10 @@ That \space being \space said, \space you \space should \space try \space your \
 $$
 
 $$ 
-{\color{green}Easy \space Going} \space over \space{\color{red}High \space Energy}. \space \textbf{As long} \longrightarrow  You \space did \space or \space try \space the \space thing \space what \space you \space were \space given.High \space energy \space focus \space has \space its \space place \space nonetheless!
+{\color{green}Easy \space Going} \space over \space{\color{red}High \space Energy}. \space \textbf{As long} \longrightarrow
+$$
+$$
+You \space did \space or \space try \space the \space thing \space what \space you \space were \space given. High \space energy \space focus \space has \space its \space place \space nonetheless!
 $$
 
 <p align="center">
