@@ -77,8 +77,7 @@ Currently, focusing on!  :hammer::fire::green_book:
 <!-- Using Latex syntax to write with colors -->
 
 $$
-\textbf{Sports:} \space {\color{green}Gym/Walking} \space over \space{\color{red}Intense sports}
-\newline
+\textbf{Sports:} \space {\color{green}Gym/Walking} \space over \space{\color{red}Intense sports}\
 \textbf{Work Values:} \space {\color{green}Collective/Synergy} \space over \space{\color{red}Competition}. \space \textbf{As long} \longrightarrow  In tech, there is too much information for one to rule. That being said, you should try your best, since you were accepted in the first place.
 \space {\color{green}Easy \space Going} \space over \space{\color{red}High \space Energy}. \space \textbf{As long} \longrightarrow  You \space did \space or \space try \space the \space thing \space what \space you \space were \space given.High \space energy \space focus \space has \space its \space place \space nonetheless!
 $$
