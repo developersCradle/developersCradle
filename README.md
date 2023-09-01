@@ -82,11 +82,10 @@ $$
 
 $$
 \textbf{Work Values:} \space {\color{green}Collective/Synergy} \space over \space{\color{red}Competition}. \space \textbf{As long} \longrightarrow
-In tech, there is too much information for one to rule.
-$$
-$$
+In \space tech, there is too much information for one to rule.
 That being said, you should try your best, since you were accepted in the first place.
 $$
+
 $$
 \space {\color{green}Easy \space Going} \space over \space{\color{red}High \space Energy}. \space \textbf{As long} \longrightarrow  You \space did \space or \space try \space the \space thing \space what \space you \space were \space given.High \space energy \space focus \space has \space its \space place \space nonetheless!
 $$
