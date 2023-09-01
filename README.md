@@ -86,6 +86,9 @@ $$
 $$
 In \space tech, \space \\ 
 there \space is  \space too \space much \space information \space for \space one \space to \space rule.
+$$
+<!-- figure out how to do this -->
+$$
 That \space being \space said, \space you \space should \space try \space your \space best, \space since \space you \space were \space accepted \space in \space the \space first \space place.
 $$
 
