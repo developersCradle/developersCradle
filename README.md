@@ -78,7 +78,6 @@ Currently, focusing on!  :hammer::fire::green_book:
 
 $$
 \textbf{Sports:} \space {\color{green}Gym/Walking} \space over \space{\color{red}Intense sports}
-\\*
 \newline
 \break
 \textbf{Work Values:} \space {\color{green}Collective/Synergy} \space over \space{\color{red}Competition}. \space \textbf{As long} \longrightarrow  In tech, there is too much information for one to rule. That being said, you should try your best, since you were accepted in the first place.
