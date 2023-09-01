@@ -71,21 +71,20 @@ Currently, focusing on!  :hammer::fire::green_book:
 
 <br>
 
-- Todo figure out colors
-
 - ⚡ About me
-    - **Sports:** <font color="green"><b>Gym/Walking</b></font> over <font color="red"><b>Intense sports</b></font>
-    - **Work Values:** 
-    <font color="green"><b>Collective/Synergy</b></font> over <font color="red"><b>Competition</b></font>. **As long** &rarr; In tech, there is too much information for one to rule. That being said, you should try your best, since you were accepted in the first place. <br>
-    <font color="green"><b>Easy Going</b></font> over <font color="red"><b>High energy</b></font>.&rarr; Things go crazy very fast, its better not invest too much emotional energy to thing which cannot be affected here and now.  **As long** &rarr; You did or try the thing what you were given. High energy focus has its place -nonetheless!--
 
+
+<!-- Using Latex syntax to write with colors -->
+$$
+\textbf{Sports:} \space {\color{green}Gym/Walking} \space over \space{\color{red}Intense sports} \newline 
+\textbf{Work Values:} \space {\color{green}Collective/Synergy} \space over \space{\color{red}Competition}. \space \textbf{As long} \longrightarrow  In tech, there is too much information for one to rule. That being said, you should try your best, since you were accepted in the first place.
+\newline 
+\space {\color{green}Easy \space Going} \space over \space{\color{red}High \space Energy}. \space \textbf{As long} \longrightarrow  You \space did \space or \space try \space the \space thing \space what \space you \space were \space given.High \space energy \space focus \space has \space its \space place \space nonetheless!
+$$
 
 <p align="center">
   <img src="coolBannerMeSoSmart.jpg" alt="alt text" width="400"/>
 </p>
-
-
-$$\textbf{Sports:} \space {\color{green}Gym/Walking} \space over \space{\color{red}Intense sports}$$
 
 
 
