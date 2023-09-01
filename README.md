@@ -71,8 +71,7 @@ Currently, focusing on!  :hammer::fire::green_book:
 
 <br>
 
-- ⚡ About me
-
+## ⚡ About me
 
 <!-- Using Latex syntax to write with colors -->
 
