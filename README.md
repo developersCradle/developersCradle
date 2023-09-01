@@ -77,10 +77,8 @@ Currently, focusing on!  :hammer::fire::green_book:
 <!-- Using Latex syntax to write with colors -->
 
 $$
-\textbf{Sports:} \space {\color{green}Gym/Walking} \space over \space{\color{red}Intense sports}
-\\
-\textbf{Work Values:} \space {\color{green}Collective/Synergy} \space over \space{\color{red}Competition}. \space \textbf{As long} \longrightarrow In \space tech, \space
-\\ 
+\textbf{Sports:} \space {\color{green}Gym/Walking} \space over \space{\color{red}Intense sports} \\
+\textbf{Work Values:} \space {\color{green}Collective/Synergy} \space over \space{\color{red}Competition}. \space \textbf{As long} \longrightarrow In \space tech, \space \\ 
 there \space is  \space too \space much \space information \space for \space one \space to \space rule.
 \\
 That \space being \space said, \space you \space should \space try \space your \space best, \space since \space you \space were \space accepted \space in \space the \space first \space place. 
