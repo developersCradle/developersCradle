@@ -16,25 +16,23 @@ Currently, focusing on!  :hammer::fire::green_book:
 
 <br>
 
-## Skills & Tools with skill level approximation(1-5): 
-<!-- TODO add tooltip reasons when moody -->
 ### Programming/Scripting languages
 
-- Level 5<br>
-- Level 4<br>
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](##, "Mainly work experience, Own project experience, Course experience")
+
+
 - Level 3<br>
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](##, "Work experience, Own project experience, Course experience")
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](##, "Mainly work experience, Own project experience, Course experience")
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](##, "Updated documentations for work, Making notes here for enforced studying")
 - Level 2<br>
-[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](##, "Some work experience, Own project experience(weather station and thesis), Course experience")
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](##, "Rides along with c++, Some studies overlapped with c++")
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](##, "School courses with exelent grades! From Basics and advanced courses, Coding stream following(code along)")
-[![Css Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
-[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
-[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](##, "Updated documentations for work, Making notes here for enforced studying")
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](##, "Work experience, Own project experience, Course experience")
+[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](##, "Some work experience, Own project experience(weather station and thesis), Course experience")
+[![Css Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](##, "Work experience, Own project experience, Course experience")
+[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](##, "Work experience, Own project experience, Course experience")
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](##, "Work experience, Own project experience, Course experience")
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](##, "Own project experience, Course experience, School experiance")
+[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](##, "Work experience")
 - Level 1<br>
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](##, "Some smaller school project")
 
@@ -73,15 +71,21 @@ Currently, focusing on!  :hammer::fire::green_book:
 
 <br>
 
-<img src="coolBannerMeSoSmart.jpg" alt="alt text" width="400"/>
-
-### to-do put reasons for levels and tools, when time
 - Todo figure out colors
 
 - ⚡ About me
     - **Sports:** <font color="green"><b>Gym/Walking</b></font> over <font color="red"><b>Intense sports</b></font>
     - **Work Values:** 
     <font color="green"><b>Collective/Synergy</b></font> over <font color="red"><b>Competition</b></font>. **As long** &rarr; In tech, there is too much information for one to rule. That being said, you should try your best, since you were accepted in the first place. <br>
-    <font color="green"><b>Easy Going</b></font> over <font color="red"><b>High energy</b></font>.&rarr; Things go crazy very fast, its better not invest too much emotional energy to thing which cannot be affected here and now.  **As long** &rarr; You did or try the thing what you were given. High energy focus has its place nonetheless!
+    <font color="green"><b>Easy Going</b></font> over <font color="red"><b>High energy</b></font>.&rarr; Things go crazy very fast, its better not invest too much emotional energy to thing which cannot be affected here and now.  **As long** &rarr; You did or try the thing what you were given. High energy focus has its place -nonetheless!--
 
 
+<p align="center">
+  <img src="coolBannerMeSoSmart.jpg" alt="alt text" width="400"/>
+</p>
+
+
+- **Sports:** <span style="color:green;"><b>Gym/Walking</b></span> over <span style="color:red;"><b>Intense sports</b></span>
+
+
+ 
