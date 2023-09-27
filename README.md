@@ -80,7 +80,7 @@ $$
 $$
 
 $$
-{\color{green}Gym/Walking} \space over \space{\color{red}Intense sports}
+{\color{green}Gym/Walking} \space over \space{\color{red}Intense \space sports}
 $$
 
 $$
@@ -107,6 +107,15 @@ $$
 $$
 You \space did \space or \space try \space the \space thing \space what \space you \space were \space given. High \space energy \space focus \space has \space its \space place \space nonetheless!
 $$
+
+$$
+\textbf{Learning:}
+$$
+
+$$
+{ \color{green}Learning \space In \space Systematic\space Approach} \space over \space{\color{red} Material \space Is \space Trivial/Scatterd }
+$$
+
 
 <p align="center">
   <img src="coolBannerMeSoSmart.jpg" alt="alt text" width="400"/>
