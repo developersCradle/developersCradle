@@ -89,8 +89,8 @@ Coursera 	![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](##, "Job experience(Integrated Power Bi into Angular app, not Power Bi experience itself)")
 [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](##, "Job experience")
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](##, "Jork experience, School experience, , Microsoft Excel and Microsoft World usage in General. Some cases here Exel was used to for achieving data grouping/categorising")
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](##, "Job experience, Project experience. Good Tool")
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](##, "Chrome devtools usage, Course experience, Job experience, School experience") <!-- Point here usage of super good devtools -->
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](##, "Job experience, Project experience.")
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](##, "Chrome devtools usage: Course experience, Job experience, School experience") <!-- Point here usage of super good devtools -->
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](##, "todo: Pengo se paska kurssi sieltä jostain")
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](##, "Job experience")
 
@@ -101,19 +101,23 @@ Coursera 	![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=
 <!-- Using Latex syntax to write with colors -->
 
 $$
-\textbf{Sports:}
+\textbf 
+{ Sports: }
 $$
 
 $$
-{\color{green}Gym/Walking} \space over \space{\color{red}Intense \space sports}
+{ \color{ green }Gym/Walking } \space over \space
+{ \color{ red } Intense \space sports }
 $$
 
 $$
-\textbf{Work Values:}
+\textbf 
+{ Work Values: }
 $$
 
 $$ 
-{\color{green}Collective/Synergy} \space over \space{\color{red}Competition}. \space \textbf{As long} \longrightarrow
+{\color{green}Collective/Synergy}\space over \space { \color{ red} Competition }. \space \textbf 
+{ As long } \longrightarrow
 $$
 
 $$
@@ -126,7 +130,9 @@ That \space being \space said, \space you \space should \space try \space your \
 $$
 
 $$ 
-{\color{green}Easy \space Going} \space over \space{\color{red}High \space Energy}. \space \textbf{As long} \longrightarrow
+{ \color{green}Easy \space Going } \space over \space 
+{ \color{red}High \space Energy }. \space \textbf
+{ As long } \longrightarrow
 $$
 
 $$
@@ -134,19 +140,29 @@ You \space did \space or \space try \space the \space thing \space what \space y
 $$
 
 $$
-\textbf{Learning Syle:}
+\textbf
+{ Learning Syle: }
 $$
 
 $$
-{ \color{green} Systematic\space Approach} \space over \space{\color{red} Material \space Is \space Trivial/Scatterd }
+{ \color{green} Systematic\space Approach }
+\space over \space 
+{ \color{red} Material \space Is \space Trivial/Scatterd }
 $$
 
 $$
-{ \color{green} Applied \space Learnig  Approach} \space over \space{\color{red} The \space Academic \space In\space Papers \space Way.} \space \textbf \space {Note} \longrightarrow
+{ \color{green} Applied \space Learnig \space Style }
+\space over \space 
+{ \color{red} The \space Academic \space In\space Papers \space Way. }
+\space \textbf \space 
+{ Note }
+\longrightarrow
 $$
 
 $$
+{
 These \space both \space are \space good. \space Just \space picked \space my \space favorite.
+}
 $$
 
 <p align="center">
