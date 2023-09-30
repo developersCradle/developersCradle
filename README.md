@@ -14,20 +14,20 @@ Currently, focusing on!  :hammer::fire::green_book:
 [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/dreamLiver, "One main support for University courses")
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/heikki-siikavirta-2/, "Good courses, i like :)")
 
-### Consumer of:
+## Consumer of:
 
 [![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)](##, "todo")
 [![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](##, "todo")
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](##, "todo")
 
-### Getting into soon:
+## Getting into soon:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](##, "todo soon")
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](##, "todo soon")
 
 <br>
 
-### Programming/Scripting languages
+## Programming/Scripting languages
 
 - Level 3<br>
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](##, "Mainly job experience, Project experience, Course experience")
@@ -97,7 +97,7 @@ $$
 \textbf 
 { Sports: }
 $$
-
+<!-- 
 $$
 { \color{ green } Gym/Walking } \space over \space
 { \color{ red } Intense \space sports }
@@ -154,7 +154,7 @@ $$
 
 $$
 { These \space both \space are \space good. \space Just \space picked \space my \space favorite. }
-$$
+$$ -->
 
 <p align="center">
   <img src="coolBannerMeSoSmart.jpg" alt="alt text" width="400"/>
