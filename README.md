@@ -143,11 +143,12 @@ $$
 { \color{red} Material \space Is \space Trivial/Scatterd }
 $$
 
-<!-- $$
+$$
 { \color{green} Applied \space Learnig \space Style } \space over \space 
-{ \color{red} The \space Academic \space In\space Papers \space Way. } \space \textbf \space 
-{ Note } \longrightarrow
-$$ -->
+{ \color{red} The \space Academic \space In\space Papers \space Way. } 
+% \space \textbf \space 
+% { Note } \longrightarrow
+$$
 
 <!-- 
 $$
