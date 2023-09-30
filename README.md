@@ -3,7 +3,6 @@
 ![Profile views](https://gpvc.arturio.dev/developersCradle) and [![Profile views](https://visitor-badge.glitch.me/badge?page_id=developersCradle.developersCradle)](https://github.com/developersCradle) and last update on front page was ![Last update](https://img.shields.io/github/last-commit/developersCradle/developersCradle?label=Last%20update&logo=https%3A%2F%2Fimg.shields.io%2Fgithub%2Flast-commit%2FdevelopersCradle%2FdevelopersCradle%3Flabel%3DLast%2520update)
 
 
-
 Currently, focusing on!  :hammer::fire::green_book:
 
 [![#](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
@@ -11,27 +10,24 @@ Currently, focusing on!  :hammer::fire::green_book:
 
 
 ## 🌱 Some learning platforms 
+
 [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/dreamLiver, "One main support for University courses")
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/heikki-siikavirta-2/, "Good courses, i like :)")
 
-#### Consumer of:
-<hr>
+## Consumer of:
 
 [![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)](##, "todo")
 [![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](##, "todo")
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](##, "todo")
 
-#### Getting into soon:
-<hr>
+## Getting into soon:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](##, "todo soon")
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](##, "todo soon")
 
 <br>
 
-### Programming/Scripting languages
-
-
+## Programming/Scripting languages
 
 - Level 3<br>
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](##, "Mainly job experience, Project experience, Course experience")
@@ -51,7 +47,7 @@ Currently, focusing on!  :hammer::fire::green_book:
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](##, "Some smaller markups for reports and .md") <!-- This is Software System, change later if needed  -->
 
 <!-- TODO kategoroi kun taas jaksaa laitaa, näitä kerääntyy tänne pasiivisesti :D -->
-### Tools/Frameworks/Libraries/Others
+## Tools/Frameworks/Libraries/Others
 [![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)](#)
 [![Eclipse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](##, "Job experience, Project experience, School experience, Course experience")
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](##, "Job experience")
@@ -143,8 +139,7 @@ $$
 $$
 
 $$
-{ \color{green} Systematic\space Approach }
-\space over \space 
+{ \color{green} Systematic \space Approach } \space over \space 
 { \color{red} Material \space Is \space Trivial/Scatterd }
 $$
 
