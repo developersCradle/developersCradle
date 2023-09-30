@@ -147,14 +147,11 @@ $$
 { \color{green} Applied \space Learnig \space Style } \space over \space 
 { \color{red} The \space Academic \space In\space Papers \space Way }. \space \textbf
 { Note } \longrightarrow
-% \space \textbf \space 
-% { Note } \longrightarrow
 $$
 
-<!-- 
 $$
 { These \space both \space are \space good. \space Just \space picked \space my \space favorite. }
-$$ -->
+$$
 
 <p align="center">
   <img src="coolBannerMeSoSmart.jpg" alt="alt text" width="400"/>
