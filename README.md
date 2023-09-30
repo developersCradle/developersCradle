@@ -97,7 +97,7 @@ $$
 \textbf 
 { Sports: }
 $$
-<!-- 
+
 $$
 { \color{ green } Gym/Walking } \space over \space
 { \color{ red } Intense \space sports }
@@ -114,7 +114,7 @@ $$
 { As long } \longrightarrow
 $$
 
-$$
+<!-- $$
 In \space tech, \space \\ 
 there \space is  \space too \space much \space information \space for \space one \space to \space rule.
 $$
