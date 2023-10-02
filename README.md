@@ -93,6 +93,7 @@ Currently, focusing on!  :hammer::fire::green_book:
 
 <!-- Using Latex syntax to write with colors -->
 
+<!-- TODO figure out rigt way of formatting -->
 $$
 \textbf 
 { Sports: }
