@@ -10,7 +10,7 @@ Currently, focusing on!  :hammer::fire::green_book:
 
 
 ## 🌱 Some learning platforms 
-[![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/dreamLiver ,'One main support for University courses')
+[![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/dreamLiver "One main support for University courses")
 [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)]('http://www.khanacademy.org/profile/dreamLiver' ,"One main support for University courses")
 [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/dreamLiver ,"One main support for University courses")
 [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)]("http://www.khanacademy.org/profile/dreamLiver" ,"One main support for University courses")
