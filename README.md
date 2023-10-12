@@ -86,6 +86,7 @@ Currently, focusing on!  :hammer::fire::green_book:
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](##, "Chrome devtools usage: Course experience, Job experience, School experience") <!-- Point here usage of super good devtools -->
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](##, "todo: Pengo se paska kurssi sieltä jostain")
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](##, "Job experience")
+[![Static Badge](https://img.shields.io/badge/mvp-pattern-blue)](# "Job experience, used with Java")
 
 <br>
 
