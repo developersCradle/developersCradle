@@ -95,17 +95,18 @@ $$
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](##, "Rides along with c++, Some studies overlapped with c++")
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](##, "School courses with exelent grades! From Basics and advanced courses, Coding stream following(code along)")
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](##, "Job experience, Own project experience, Course experience")
-[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](##, "Some job experience, Own project experience(weather station and thesis), Course experience")
-[![Css Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](##, "Job experience, Own project experience, Course experience")
+[![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](##, "Job experience, Own project experience, Course experience")
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](##, "Job experience, Own project experience, Course experience")
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](##, "Job experience, Project experience, Course experience")
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](##, "Own project experience, Course experience, School experience")
 [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](##, "Job experience")
 - Level 1<br>
+[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](##, "Some job experience, Own project experience(weather station and thesis), Course experience")
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](##, "Some smaller school project")
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](##, "Some smaller markups for reports and .md") <!-- This is Software System, change later if needed  -->
 
 <!-- TODO kategorioi kun taas jaksaa laittaa, näitä kerääntyy tänne passiivisesti  :D -->
+
 ## Tools/Frameworks/Libraries/Others
 [![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)](#)
 [![Eclipse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](##, "Job experience, Project experience, School experience, Course experience")
@@ -143,7 +144,6 @@ $$
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](##, "Jork experience, School experience, , Microsoft Excel and Microsoft World usage in General. Some cases here Exel was used to for achieving data grouping/categorizing")
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](##, "Job experience, Project experience.")
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](##, "Chrome devtools usage: Course experience, Job experience, School experience") <!-- Point here usage of super good devtools -->
-[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](##, "todo: Pengo se paska kurssi sieltä jostain")
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](##, "Job experience")
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](# "Job experience, Used in own projects")
 [![Static Badge](https://img.shields.io/badge/mvp-pattern-blue)](# "Job experience(used with Java)")
