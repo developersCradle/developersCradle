@@ -1,10 +1,17 @@
+
+
 ### Hi there, I am Heikki, enthusiastic learner. Just adding this and moving along 👋
+
+<p align="center">
+   <img src="evenCoolerGithubBanner.gif" alt="alt text" width="800"/>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=developersCradle&color=green) and last update on front page was ![Last update](https://img.shields.io/github/last-commit/developersCradle/developersCradle?label=Last%20update&logo=https%3A%2F%2Fimg.shields.io%2Fgithub%2Flast-commit%2FdevelopersCradle%2FdevelopersCradle%3Flabel%3DLast%2520update)
 
 Currently, focusing on!  :hammer::fire::green_book:
 
 [![#](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
+
 
 ## ⚡ About me
 
@@ -151,7 +158,7 @@ $$
 <br>
 
 <p align="center">
-  <img src="coolBannerMeSoSmart.jpg" alt="alt text" width="400"/>
+  <img src="coolBannerMeSoSmartEvolved.gif" alt="alt text" width="400"/>
 </p>
 
 
