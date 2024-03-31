@@ -1,6 +1,7 @@
 
 
-### Hi there, I am Heikki, enthusiastic learner. Just adding this and moving along 👋
+
+<marquee direction="left" scrollamount="10" behavior="scroll" style="width: 600px; height: 30px; color: #62db33; font-size: 20px;"> Hi there, I am Heikki, enthusiastic learner. Just adding this and moving along 👋</marquee>
 
 <p align="center">
    <img src="evenCoolerGithubBanner.gif" alt="alt text" width="800"/>
@@ -154,12 +155,19 @@ $$
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](##, "Job experience")
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](# "Job experience, Used in own projects")
 [![Static Badge](https://img.shields.io/badge/mvp-pattern-blue)](# "Job experience(used with Java)")
+<hr>
 
-<br>
+<div align="center">
+  <p>Remember to drop feedback!</p>
+  <a href="https://github.com/developersCradle/developersCradle/issues"><img src="guestBook.gif" alt="Guest book" align="center" width="300"></a>
+</div>
 
+<hr>
 <p align="center">
-  <img src="coolBannerMeSoSmartEvolved.gif" alt="alt text" width="400"/>
+  <img src="coolBannerMeSoSmartEvolved.gif" alt="EinsteinOnFIRE!" width="400"/>
 </p>
+
+
 
 
 
