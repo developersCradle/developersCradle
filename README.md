@@ -1,11 +1,13 @@
 
 
-
 <marquee direction="left" scrollamount="10" behavior="scroll" style="width: 600px; height: 30px; color: #62db33; font-size: 20px;"> Hi there, I am Heikki, enthusiastic learner. Just adding this and moving along 👋</marquee>
 
 <p align="center">
    <img src="evenCoolerGithubBanner.gif" alt="alt text" width="800"/>
 </p>
+
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=developersCradle&color=green) and last update on front page was ![Last update](https://img.shields.io/github/last-commit/developersCradle/developersCradle?label=Last%20update&logo=https%3A%2F%2Fimg.shields.io%2Fgithub%2Flast-commit%2FdevelopersCradle%2FdevelopersCradle%3Flabel%3DLast%2520update)
 
@@ -158,14 +160,29 @@ $$
 <hr>
 
 <div align="center">
-  <p>Remember to drop feedback!</p>
-  <a href="https://github.com/developersCradle/developersCradle/issues"><img src="guestBook.gif" alt="Guest book" align="center" width="300"></a>
+
+  <p>Remember to check website!</p>
+  <a href="https://developerscradle.github.io/">
+    <img src="homepage.webp" alt="homepage" width="200"/>
+  </a>
+
+  <hr>
+  
+  <p>Aslo, remember to drop feedback!</p>
+  
+  <a href="https://github.com/developersCradle/developersCradle/issues">
+    <img src="guestBook.gif" alt="Guest book" align="center" width="300">
+  </a>
+
 </div>
 
+
 <hr>
+
 <p align="center">
   <img src="coolBannerMeSoSmartEvolved.gif" alt="EinsteinOnFIRE!" width="400"/>
 </p>
+
 
 
 
