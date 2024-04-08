@@ -7,8 +7,6 @@
 </p>
 
 
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=developersCradle&color=green) and last update on front page was ![Last update](https://img.shields.io/github/last-commit/developersCradle/developersCradle?label=Last%20update&logo=https%3A%2F%2Fimg.shields.io%2Fgithub%2Flast-commit%2FdevelopersCradle%2FdevelopersCradle%3Flabel%3DLast%2520update)
 
 Currently, focusing on!  :hammer::fire::green_book:
@@ -17,16 +15,6 @@ Currently, focusing on!  :hammer::fire::green_book:
 
 
 ## ⚡ About me
-
-$$
-\textbf 
-{ Sports: }
-$$
-
-$$
-{ \color{ green } Gym/Walking } \space over \space
-{ \color{ red } Intense \space sports }
-$$
 
 $$
 \textbf 
@@ -56,6 +44,16 @@ $$
 
 $$
 You \space did \space or \space try \space the \space thing \space what \space you \space were \space given. High \space energy \space focus \space has \space its \space place \space nonetheless!
+$$
+
+$$
+\textbf 
+{ Sports: }
+$$
+
+$$
+{ \color{ green } Gym/Walking } \space over \space
+{ \color{ red } Intense \space sports }
 $$
 
 $$
@@ -119,6 +117,8 @@ $$
 
 ## Tools/Frameworks/Libraries/Others
 [![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)](#)
+[![Eclipse Jersey](https://img.shields.io/badge/Eclipse-Jersey-green)](#)
+
 [![Eclipse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](##, "Job experience, Project experience, School experience, Course experience")
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](##, "Job experience")
 [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)](##, "Stream code along tool(running inside windows!)")
@@ -168,7 +168,7 @@ $$
 
   <hr>
   
-  <p>Aslo, remember to drop feedback!</p>
+  <p>Also, remember to drop feedback!</p>
   
   <a href="https://github.com/developersCradle/developersCradle/issues">
     <img src="guestBook.gif" alt="Guest book" align="center" width="300">
