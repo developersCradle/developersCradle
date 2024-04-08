@@ -79,13 +79,13 @@ $$
 ## 🌱 Some learning platforms 
 [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/dreamLiver "One main support for University courses")
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/heikki-siikavirta-2/ "Good courses, i like")
-[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/fd78711b33a2e8098570aec8a52d4a53 "Some good courses to support IT and Math")
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/fd78711b33a2e8098570aec8a52d4a53 "Some good courses to support IT and Math.")
 
 
 ## Consumer of:
 
-[![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)](##, "todo")
-[![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](##, "todo")
+[![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)](##, "Cool platform.")
+[![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](##, "Another cool platform.")
 
 ## Getting into soon:
 
@@ -99,6 +99,10 @@ $$
 - Level 3<br>
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](##, "Mainly job experience, Project experience, Course experience")
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](##, "Updated documentations for job, Making notes here for enforced studying")
+[![GitHub Flavored Markdown Spec](https://img.shields.io/badge/GitHub_Flavored_Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](##, "Making notes here for enforced studying")
+<!-- https://github.github.com/gfm/ -->
+
+
 - Level 2<br>
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](##, "Rides along with c++, Some studies overlapped with c++")
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](##, "School courses with exelent grades! From Basics and advanced courses, Coding stream following(code along)")
