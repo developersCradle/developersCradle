@@ -1,9 +1,8 @@
 
 
-<marquee direction="left" scrollamount="10" behavior="scroll" style="width: 600px; height: 30px; color: #62db33; font-size: 20px;"> Hi there, I am Heikki, enthusiastic learner. Just adding this and moving along 👋</marquee>
-
 <p align="center">
-   <img src="evenCoolerGithubBanner.gif" alt="alt text" width="800"/>
+  <img src="scrolling text.gif" alt="some marquuin" width="800"/>
+  <img src="evenCoolerGithubBanner.gif" alt="portfolio profile" width="800"/>
 </p>
 
 
@@ -11,10 +10,9 @@
 
 Currently, focusing on!  :hammer::fire::green_book:
 
-[![#](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
+[![#](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#) ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 
-
-## ⚡ About me
+## ⚡ About me.
 
 $$
 \textbf 
@@ -116,52 +114,6 @@ $$
 [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](##, "Some job experience, Own project experience(weather station and thesis), Course experience")
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](##, "Some smaller school project")
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](##, "Some smaller markups for reports and .md") <!-- This is Software System, change later if needed  -->
-
-<!-- TODO kategorioi kun taas jaksaa laittaa, näitä kerääntyy tänne passiivisesti  :D -->
-
-## Tools/Frameworks/Libraries/Others
-[![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)](#)
-[![Eclipse Jersey](https://img.shields.io/badge/Eclipse-Jersey-green)](#)
-
-[![Eclipse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](##, "Job experience, Project experience, School experience, Course experience")
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](##, "Job experience")
-[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)](##, "Stream code along tool(running inside windows!)")
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](##, "Job experience, Course experience, School experience. NOTE Matti saved my 🍑 from 🔥, when there was none!(Did not quit IT studies!)")
-[![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](##, "Job experience, School experience, Project experience")
-[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](##, "Job experience")
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](##, "Job experience")
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
-[![Maven Badge](https://badgen.net/badge/icon/maven?icon=maven&label)](#)
-[![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)](#)
-![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](##, "Job experience")
-[![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)](#)
-[![JavaFX](https://img.shields.io/badge/-javaFX%20-red)](#)
-[![GWT](https://img.shields.io/badge/-gwt%20-red)](##, "Job experience, Course experience")
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](##, "School project(Toy Trail), Course experience, School experience, Book experience")
-![Apache Tomcat](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Tomcat&color=222222&logo=Apache+Tomcat&logoColor=F8DC75&label=)
-![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
-![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
-![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
-![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
-![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
-[![Flyway](https://img.shields.io/static/v1?style=for-the-badge&message=Flyway&color=CC0200&logo=Flyway&logoColor=FFFFFF&label=)](##, "Job experience")
-![LastPass](https://img.shields.io/static/v1?style=for-the-badge&message=LastPass&color=D32D27&logo=LastPass&logoColor=FFFFFF&label=)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](##, "Interview task problem, Course experience")
-[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](##, "Job experience(Integrated Power Bi into Angular app, not Power Bi experience itself)")
-[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](##, "Job experience")
-[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](##, "Jork experience, School experience, , Microsoft Excel and Microsoft World usage in General. Some cases here Exel was used to for achieving data grouping/categorizing")
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](##, "Job experience, Project experience.")
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](##, "Chrome devtools usage: Course experience, Job experience, School experience") <!-- Point here usage of super good devtools -->
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](##, "Job experience")
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](# "Job experience, Used in own projects")
-[![Static Badge](https://img.shields.io/badge/mvp-pattern-blue)](# "Job experience(used with Java)")
-<hr>
 
 <div align="center">
 
