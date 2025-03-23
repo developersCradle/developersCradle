@@ -90,30 +90,8 @@ $$
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](##, "todo soon")
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](##, "todo soon")
 
-<br>
 
-## Programming/Scripting languages
-
-- Level 3<br>
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](##, "Mainly job experience, Project experience, Course experience")
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](##, "Updated documentations for job, Making notes here for enforced studying")
-[![GitHub Flavored Markdown Spec](https://img.shields.io/badge/GitHub_Flavored_Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](##, "Making notes here for enforced studying")
-<!-- https://github.github.com/gfm/ -->
-
-
-- Level 2<br>
-[![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](##, "Rides along with c++, Some studies overlapped with c++")
-[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](##, "School courses with exelent grades! From Basics and advanced courses, Coding stream following(code along)")
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](##, "Job experience, Own project experience, Course experience")
-[![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](##, "Job experience, Own project experience, Course experience")
-[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](##, "Job experience, Own project experience, Course experience")
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](##, "Job experience, Project experience, Course experience")
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](##, "Own project experience, Course experience, School experience")
-[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](##, "Job experience")
-- Level 1<br>
-[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](##, "Some job experience, Own project experience(weather station and thesis), Course experience")
-[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](##, "Some smaller school project")
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](##, "Some smaller markups for reports and .md") <!-- This is Software System, change later if needed  -->
+<hr>
 
 <div align="center">
 
