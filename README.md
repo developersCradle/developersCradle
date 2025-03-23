@@ -75,6 +75,7 @@ $$
 $$
 
 ## 🌱 Some learning platforms 
+
 [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/dreamLiver "One main support for University courses")
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/heikki-siikavirta-2/ "Good courses, i like")
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/fd78711b33a2e8098570aec8a52d4a53 "Some good courses to support IT and Math.")
@@ -91,7 +92,6 @@ $$
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](##, "todo soon")
 
 
-<hr>
 
 <div align="center">
 
