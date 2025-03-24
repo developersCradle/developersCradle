@@ -1,8 +1,7 @@
 
 
 <p align="center">
-<img src="scrolling text.gif" alt="some marquuin" width="800"/>
-<a href="http://www.reactivemanifesto.org/"> <img style="border: 0; position: fixed; left: 0; top:0; z-index: 9000" src="http://d379ifj7s9wntv.cloudfront.net/reactivemanifesto/images/ribbons/we-are-reactive-blue-left.png"> </a>
+  <img src="scrolling text.gif" alt="some marquuin" width="800"/>
   <img src="evenCoolerGithubBanner.gif" alt="portfolio profile" width="800"/>
 </p>
 
