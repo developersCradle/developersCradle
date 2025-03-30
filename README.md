@@ -13,7 +13,7 @@
   
   Currently, focusing on!  :hammer::fire::green_book:
 
-<img src="peon.gif" alt="portfolio profile" width=200/>
+<img src="peon.gif" alt="portfolio profile" width="100px"/>
   
   [![#](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#) ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
   [![Project Reactor](https://img.shields.io/badge/Project_Reactor-grey?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://projectreactor.io/)
