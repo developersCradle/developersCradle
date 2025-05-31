@@ -5,16 +5,6 @@
   <img src="evenCoolerGithubBanner.gif" alt="portfolio profile" width="800"/>
 </p>
 
-
-  <img srcset="evenCoolerGithubBanner.gif" media="(prefers-color-scheme: dark)" />
-  <img srcset="scrolling text.gif" media="(prefers-color-scheme: light)" />
-  
-  <img srcset="scrolling text.gif" media="(prefers-color-scheme: auto)" />
-  
-  <img src="evenCoolerGithubBanner.gif" alt="My Themed Image" media="(prefers-color-scheme: light)" />
-
-  <img src="scrolling text.gif" alt="My Themed Image" media="(prefers-color-scheme:auto)" />
-
 <div align="center">
 
   ![Profile Views](https://komarev.com/ghpvc/?username=developersCradle&color=green) and last update on front page was ![Last update](https://img.shields.io/github/last-commit/developersCradle/developersCradle?label=Last%20update&logo=https%3A%2F%2Fimg.shields.io%2Fgithub%2Flast-commit%2FdevelopersCradle%2FdevelopersCradle%3Flabel%3DLast%2520update)
