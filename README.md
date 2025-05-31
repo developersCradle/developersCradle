@@ -6,11 +6,14 @@
 </p>
 
 
-  <source srcset="evenCoolerGithubBanner.gif" media="(prefers-color-scheme: dark)" />
-  <source srcset="scrolling text.gif" media="(prefers-color-scheme: light)" />
-    <source srcset="scrolling text.gif" media="(prefers-color-scheme: auto)" />
-  <!-- <img src="evenCoolerGithubBanner.gif" alt="My Themed Image" /> -->
-  <!-- <img src="scrolling text.gif" alt="My Themed Image" /> -->
+  <img srcset="evenCoolerGithubBanner.gif" media="(prefers-color-scheme: dark)" />
+  <img srcset="scrolling text.gif" media="(prefers-color-scheme: light)" />
+  
+  <img srcset="scrolling text.gif" media="(prefers-color-scheme: auto)" />
+  
+  <img src="evenCoolerGithubBanner.gif" alt="My Themed Image" media="(prefers-color-scheme: light)" />
+
+  <img src="scrolling text.gif" alt="My Themed Image" media="(prefers-color-scheme:auto)" />
 
 <div align="center">
 
