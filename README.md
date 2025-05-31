@@ -6,13 +6,11 @@
 </p>
 
 
-<picture>
   <source srcset="evenCoolerGithubBanner.gif" media="(prefers-color-scheme: dark)" />
   <source srcset="scrolling text.gif" media="(prefers-color-scheme: light)" />
     <source srcset="scrolling text.gif" media="(prefers-color-scheme: auto)" />
   <!-- <img src="evenCoolerGithubBanner.gif" alt="My Themed Image" /> -->
   <!-- <img src="scrolling text.gif" alt="My Themed Image" /> -->
-</picture>
 
 <div align="center">
 
