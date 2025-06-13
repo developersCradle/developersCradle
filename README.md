@@ -8,11 +8,10 @@
 <div align="center">
 
   ![Profile Views](https://komarev.com/ghpvc/?username=developersCradle&color=green) and last update on front page was ![Last update](https://img.shields.io/github/last-commit/developersCradle/developersCradle?label=Last%20update&logo=https%3A%2F%2Fimg.shields.io%2Fgithub%2Flast-commit%2FdevelopersCradle%2FdevelopersCradle%3Flabel%3DLast%2520update)
+
   Currently, focusing on!  :hammer::fire::green_book:
   
   <img src="peon.gif" alt="portfolio profile" width="150px"/>
-
-  <br>
 
   <a href="https://www.eclipse.org/">
     <img src="pm-eclipse-java-pm.gif" alt="eclipse the best" width="150"/>
