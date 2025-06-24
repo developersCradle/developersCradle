@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="scrolling text.gif" alt="some marquuin" width="800"/>
-  <img src="evenCoolerGithubBanner.gif" alt="portfolio profile" width="800"/>
+  <img src="orcCoolerGithubBanner.gif" alt="portfolio profile" width="800"/>
 </p>
 
 <div align="center">
