@@ -86,6 +86,16 @@ $$
 { These \space both \space are \space good. \space Just \space picked \space my \space favorite. }
 $$
 
+
+
+## 🎓 I studied.
+
+
+<p id="logos" align="center">
+  <img src="ObudaBanner.PNG" style="float:left; margin-right:10px"  width="250"  height="200">
+  <img src="centriaLogo.png" style="float:left;" width="200" height="200">
+</p>
+
 ## 🌱 Some learning platforms 
 
 [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/dreamLiver "One main support for University courses")
