@@ -92,9 +92,15 @@ $$
 
 
 <p id="logos" align="center">
-  <img src="ObudaLogo.PNG" style="float:left; margin-right:10px"  width="250"  height="200">
-  <img src="centriaLogo.png" style="float:left;" width="200" height="200">
+
+  <a href="https://nik.uni-obuda.hu/en/home-english/">
+    <img src="ObudaLogo.PNG" style="float:left; margin-right:10px"  width="250"  height="200">
+  </a>
+  <a href="https://net.centria.fi/">
+    <img src="centriaLogo.png" style="float:left;" width="200" height="200">
+  </a>
 </p>
+
 
 
 ## 🌱 Some learning platforms 
