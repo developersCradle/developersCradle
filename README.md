@@ -92,9 +92,10 @@ $$
 
 
 <p id="logos" align="center">
-  <img src="ObudaBanner.PNG" style="float:left; margin-right:10px"  width="250"  height="200">
+  <img src="ObudaLogo.PNG" style="float:left; margin-right:10px"  width="250"  height="200">
   <img src="centriaLogo.png" style="float:left;" width="200" height="200">
 </p>
+
 
 ## 🌱 Some learning platforms 
 
