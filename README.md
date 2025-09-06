@@ -27,7 +27,7 @@
 
 </div>
 
-## ⚡ About me.
+## <img src="https://media.tenor.com/sRL5jAfDjMcAAAAj/flame-lit.gif" width ="45" height="30"><b> About me. </b>
 
 $$
 \textbf 
@@ -88,7 +88,7 @@ $$
 
 
 
-## 🎓 I studied.
+## 🎓 I studied at.
 
 
 <p id="logos" align="center">
@@ -100,6 +100,7 @@ $$
     <img src="centriaLogo.png" style="float:left;" width="200" height="200">
   </a>
 </p>
+
 
 
 
@@ -121,6 +122,7 @@ $$
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](##, "todo soon")
 
 
+<hr>
 
 <div align="center">
 
