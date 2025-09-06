@@ -103,24 +103,34 @@ $$
 
 
 
-
 ## 🌱 Some learning platforms 
 
-[![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/dreamLiver "One main support for University courses")
-[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/heikki-siikavirta-2/ "Good courses, i like")
-[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/fd78711b33a2e8098570aec8a52d4a53 "Some good courses to support IT and Math.")
+<div align="center">
 
+  [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/dreamLiver "One main support for University courses")
+  [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/heikki-siikavirta-2/ "Good courses, i like")
+  [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/fd78711b33a2e8098570aec8a52d4a53 "Some good courses to support IT and Math.")
+
+</div>
 
 ## Consumer of:
 
-[![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)](##, "Cool platform.")
-[![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](##, "Another cool platform.")
+<div align="center">
+
+  [![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)](##, "Cool platform.")
+  [![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](##, "Another cool platform.")
+
+</div>
 
 ## Getting into soon:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](##, "todo soon")
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](##, "todo soon")
 
+<div align="center">
+
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](##, "todo soon")
+  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](##, "todo soon")
+
+</div>
 
 <hr>
 
