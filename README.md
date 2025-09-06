@@ -19,7 +19,6 @@
   [![Project Reactor](https://img.shields.io/badge/Project_Reactor-grey?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://projectreactor.io/)
    [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
   
-  <!-- FIURE OUT here br   -->
 
   <a href="https://www.eclipse.org/">
     <img src="pm-eclipse-java-pm.gif" alt="eclipse the best" width="150"/>
@@ -86,10 +85,7 @@ $$
 { These \space both \space are \space good. \space Just \space picked \space my \space favorite. }
 $$
 
-
-
-## 🎓 I studied at.
-
+## <img src="https://d2w9rnfcy7mm78.cloudfront.net/9916353/original_90df1c1bbc3dde2cee2b2918eeae7830.gif?1608103771?bc=0" width ="45" height="30"><b> I studied at. </b>
 
 <p id="logos" align="center">
 
