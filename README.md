@@ -19,10 +19,14 @@
   [![Project Reactor](https://img.shields.io/badge/Project_Reactor-grey?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://projectreactor.io/)
    [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
   
+  <a href="https://www.eclipse.org/">
+    <img src="java-duke.gif" alt="eclipse the best" width="350"/>
+  </a>
 
   <a href="https://www.eclipse.org/">
     <img src="pm-eclipse-java-pm.gif" alt="eclipse the best" width="150"/>
   </a>
+
 
 </div>
 
@@ -99,7 +103,7 @@ $$
 
 
 
-## 🌱 Some learning platforms 
+## 🌱 Some learning platforms. 
 
 <div align="center">
 
