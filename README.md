@@ -23,6 +23,8 @@
     <img src="java-duke.gif" alt="eclipse the best" width="350"/>
   </a>
 
+  <br>
+
   <a href="https://www.eclipse.org/">
     <img src="pm-eclipse-java-pm.gif" alt="eclipse the best" width="150"/>
   </a>
