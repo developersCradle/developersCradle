@@ -86,6 +86,18 @@ $$
 { These \space both \space are \space good. \space Just \space picked \space my \space favorite. }
 $$
 
+## 🎈 Fun Facts About Me.
+
+- 💻 **High School** Got a stipend for creating and maintaining our school homepage!  
+
+- 🎮 **DOOM II Fanatic:** As a kid, I played DOOM II so much that I imagined `chaining zombies` in real life. My imagination was wild, but my teacher hinted I might need a psychologist 😅
+
+<p id="logos" align="center">
+  <a href="https://nik.uni-obuda.hu/en/home-english/">
+    <img src="iLOVEdoom.png" width="350"  height="200">
+  </a>
+</p>
+
 ## <img src="https://d2w9rnfcy7mm78.cloudfront.net/9916353/original_90df1c1bbc3dde2cee2b2918eeae7830.gif?1608103771?bc=0" width ="45" height="30"><b> I studied at. </b>
 
 <p id="logos" align="center">
