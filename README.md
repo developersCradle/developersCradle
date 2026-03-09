@@ -1,16 +1,16 @@
 
-
 <p align="center">
-  <img src="scrolling text.gif" alt="some marquuin" width="800"/>
-  <img src="orcCoolerGithubBanner.gif" alt="portfolio profile" width="800"/>
+  <img src="Scrolling_Text_About_Me.gif" alt="Scrolling Text About Me!" width="800"/>
+  <img src="Banner_In_Profile.gif" alt="Banner made my me!" width="800"/>
 </p>
 
 <div align="center">
 
   ![Profile Views](https://komarev.com/ghpvc/?username=developersCradle&color=green) and last update on front page was ![Last update](https://img.shields.io/github/last-commit/developersCradle/developersCradle?label=Last%20update&logo=https%3A%2F%2Fimg.shields.io%2Fgithub%2Flast-commit%2FdevelopersCradle%2FdevelopersCradle%3Flabel%3DLast%2520update)
 
-
-  <img src="peon.gif" alt="portfolio profile" width="150px"/>
+<a href="https://www.linkedin.com/in/heikki-siikavirta/">
+  <img src="Working_Peon_Orc_WC3.gif" alt="Working Peon In The Profile!" width="150px"/>
+</a>
 
   Currently, focusing on!  :hammer::fire::green_book:
   
@@ -20,7 +20,7 @@
    [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
   
   <a href="https://www.java.com/en/">
-    <img src="java-duke.gif" alt="eclipse the best" width="350"/>
+    <img src="Java_Mascot_Duke.gif" alt="Java is the future and JVM languages!" width="350"/>
   </a>
 
   <br>
@@ -88,13 +88,13 @@ $$
 
 ## 🎈 Fun Facts About Me.
 
-- 💻 **High School** Got a stipend for creating and maintaining our school homepage!  
+- 💻 **High School** Got a stipend for creating and maintaining our school homepage! [Check here](https://github.com/developersCradle/certification-chest#High_School_Stipend_Yearly_Report?trk=public_profile_see-credential).
 
 - 🎮 **DOOM II Fanatic:** As a kid, I played DOOM II very much.
 
 <p id="logos" align="center">
   <a href="https://nik.uni-obuda.hu/en/home-english/">
-    <img src="iLOVEdoom.png" width="350"  height="200">
+    <img src="I_Liked_DOOM_Two.png" width="450"  height="250">
   </a>
 </p>
 
@@ -110,32 +110,15 @@ $$
   </a>
 </p>
 
-
-
-## 🌱 Some learning platforms. 
+## 🧙‍♂️ Consumer of.
 
 <div align="center">
 
   [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/dreamLiver "One main support for University courses")
   [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/heikki-siikavirta-2/ "Good courses, i like")
   [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/fd78711b33a2e8098570aec8a52d4a53 "Some good courses to support IT and Math.")
-
-</div>
-
-## Consumer of:
-
-<div align="center">
-
   [![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)](##, "Cool platform.")
   [![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](##, "Another cool platform.")
-
-</div>
-
-## Getting into soon:
-
-
-<div align="center">
-
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](##, "todo soon")
   [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](##, "todo soon")
 
