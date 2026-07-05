@@ -27,7 +27,7 @@
 
 </div>
 
-## <img src="https://media.tenor.com/sRL5jAfDjMcAAAAj/flame-lit.gif" width ="45" height="30"><b> About me. </b>
+## <img src="https://media.tenor.com/sRL5jAfDjMcAAAAj/flame-lit.gif" width ="45" height="30"><b> About Me. </b>
 
 $$
 \textbf 
@@ -86,31 +86,47 @@ $$
 { These \space both \space are \space good. \space Just \space picked \space my \space favorite. }
 $$
 
-## 🎈 Fun Facts About Me.
+## 🌟 Fun Facts About Me.
 
-- 💻 **High School** Got a stipend for creating and maintaining our school homepage! [Check here](https://github.com/developersCradle/certification-chest#High_School_Stipend_Yearly_Report?trk=public_profile_see-credential).
+- 💻 **High School**: Got a stipend for creating and maintaining our school homepage! 
 
-- 🎮 **DOOM II Fanatic:** As a kid, I played DOOM II very much.
-
-<p id="logos" align="center">
-  <a href="https://nik.uni-obuda.hu/en/home-english/">
-    <img src="I_Liked_DOOM_Two.png" width="450"  height="250">
+<p align="center">
+  <img src="Mouse_Middle.PNG" width="35" height="40"><br>
+  <a href="https://github.com/developersCradle/certification-chest#High_School_Stipend_Yearly_Report?trk=public_profile_see-credential">
+  <b>Check here.</b>
   </a>
 </p>
 
-## <img src="https://d2w9rnfcy7mm78.cloudfront.net/9916353/original_90df1c1bbc3dde2cee2b2918eeae7830.gif?1608103771?bc=0" width ="45" height="30"><b> I studied at. </b>
+- 🎮 **DOOM II Fanatic:** As a kid, I played *DOOM II* very much. 
+  - My father gave me the nickname "*Sound Blaster*"—after the iconic sound card—because I was such a noisy kid!
+
+<p id="DOOM_About_Me" align="center">
+  <a href="https://www.youtube.com/watch?v=uQ46pszXMfk">
+    <img src="I_Liked_DOOM_Two.png" width="400"  height="200">
+  </a>
+</p>
+
+- 🍸 **Gin And Tonic:** One of my favorite drinks—especially when enjoyed with good company!
+
+<p id="Gin_And_Tonic_About_Me" align="center">
+  <a href="https://www.youtube.com/watch?v=6UxQlvlvVU0">
+    <img src="Gin_Tonic.png" width="250"  height="250" alt="Pixel art Gin & Tonic!">
+  </a>
+</p>
+
+## <img src="https://d2w9rnfcy7mm78.cloudfront.net/9916353/original_90df1c1bbc3dde2cee2b2918eeae7830.gif?1608103771?bc=0" width ="45" height="30"><b> I Studied At. </b>
 
 <p id="logos" align="center">
 
   <a href="https://nik.uni-obuda.hu/en/home-english/">
-    <img src="ObudaLogo.PNG" style="float:left; margin-right:10px"  width="250"  height="200">
+    <img src="Obuda_University_Logo.PNG" style="float:left; margin-right:10px"  width="250"  height="200">
   </a>
   <a href="https://net.centria.fi/">
-    <img src="centriaLogo.png" style="float:left;" width="200" height="200">
+    <img src="Centria_Logo.png" style="float:left;" width="200" height="200">
   </a>
 </p>
 
-## 🧙‍♂️ Consumer of.
+## 🧙‍♂️ Consumer Of.
 
 <div align="center">
 
@@ -130,7 +146,7 @@ $$
 
   <p>Remember to check website!</p>
   <a href="https://developerscradle.github.io/">
-    <img src="homepage.webp" alt="homepage" width="200"/>
+    <img src="Homepage_Rotating_Earth.webp" alt="Homepage animation!" width="200"/>
   </a>
 
   <hr>
@@ -138,7 +154,7 @@ $$
   <p>Also, remember to drop feedback!</p>
   
   <a href="https://github.com/developersCradle/developersCradle/issues">
-    <img src="guestBook.gif" alt="Guest book, ei mulla ole vieraita, vain vieraita naisia!" align="center" width="300">
+    <img src="guestBook.gif" alt="Guest book, ei mulla ole vieraita ole, vain vieraita naisia!" align="center" width="300">
   </a>
 
 </div>
@@ -147,7 +163,7 @@ $$
 <hr>
 
 <p align="center">
-  <img src="coolBannerMeSoSmartEvolved.gif" alt="EinsteinOnFIRE!" width="400"/>
+  <img src="Cool_Banner_Second_Iteration.gif" alt="Einste On FIRE!" width="400"/>
 </p>
 
 
