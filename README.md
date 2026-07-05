@@ -91,9 +91,11 @@ $$
 - 💻 **High School**: Got a stipend for creating and maintaining our school homepage! 
 
 <p align="center">
-  <img src="Mouse_Middle.PNG" width="35" height="40"><br>
   <a href="https://github.com/developersCradle/certification-chest#High_School_Stipend_Yearly_Report?trk=public_profile_see-credential">
-  <b>Check here.</b>
+    <img src="Mouse_Middle.PNG" width="35" height="40" alt="Check here!">
+  </a><br>
+  <a href="https://github.com/developersCradle/certification-chest#High_School_Stipend_Yearly_Report?trk=public_profile_see-credential">
+    <b>Check here.</b>
   </a>
 </p>
 
@@ -102,7 +104,7 @@ $$
 
 <p id="DOOM_About_Me" align="center">
   <a href="https://www.youtube.com/watch?v=uQ46pszXMfk">
-    <img src="I_Liked_DOOM_Two.png" width="400"  height="200">
+    <img src="I_Liked_DOOM_Two.png" width="450"  height="250">
   </a>
 </p>
 
@@ -110,7 +112,7 @@ $$
 
 <p id="Gin_And_Tonic_About_Me" align="center">
   <a href="https://www.youtube.com/watch?v=6UxQlvlvVU0">
-    <img src="Gin_Tonic.png" width="250"  height="250" alt="Pixel art Gin & Tonic!">
+    <img src="Gin_Tonic.png" width="200"  height="200" alt="Pixel art Gin & Tonic!">
   </a>
 </p>
 
