@@ -34,6 +34,28 @@ $$
 { Work Values: }
 $$
 
+
+$$ 
+{ \color{ green }Collective/Synergy } \space over \space 
+{ \color{ red } Competition }. \space \textbf 
+{ As long } \longrightarrow
+In \space tech, \space \\ 
+there \space is  \space too \space much \space information \space for \space one \space to \space rule. \newline
+That \space being \space said, \space you \space should \space try \space your \space best, \space since \space you \space were \space accepted \space in \space the \space first \space place.
+$$
+
+$$ 
+{ \color{ green }Collective/Synergy } \space over \space 
+{ \color{ red } Competition }. \space \textbf 
+{ As long } \longrightarrow
+
+In \space tech, \space \\ 
+there \space is  \space too \space much \space information \space for \space one \space to \space rule. \newline
+That \space being \space said, \space you \space should \space try \space your \space best, \space since \space you \space were \space accepted \space in \space the \space first \space place.
+$$
+
+
+
 $$ 
 { \color{ green }Collective/Synergy } \space over \space 
 { \color{ red } Competition }. \space \textbf 
@@ -173,50 +195,4 @@ $$
 
 <p align="center">
   <img src="Cool_Banner_Second_Iteration.gif" alt="Einstei on fire!" width="400"/>
-</p>
-
-
-
-<hr>
-
-
-
-
-
- 
-<h4 align="center">Work Values:</h4>
-
-<p align="center">
-  <em><span style="color:green">Collective / Synergy</span>
-  over <span style="color:red">Competition</span> . As long →</em>
-</p>
-
-<p align="center">
-  <em>In tech, there is too much information for one to rule.
-  That being said, you should try your best, since you were
-  accepted in the first place.</em>
-</p>
-
-<h4 align="center">Sports:</h4>
-
-<p align="center">
-  <em><span style="color:green">Gym / Walking</span>
-  over <span style="color:red">Intense sports</span></em>
-</p>
-
-<h4 align="center">Learning Style:</h4>
-
-<p align="center">
-  <em><span style="color:green">Systematic Approach</span>
-  over <span style="color:red">Material Is Trivial / Scattered</span></em>
-</p>
-
-<p align="center">
-  <em><span style="color:green">Applied Learning Style</span>
-  over <span style="color:red">The Academic In Papers Way</span></em>
-  . <strong>Note</strong> →
-</p>
-
-<p align="center">
-  <em>These both are good. Just picked my favorite.</em>
 </p>
