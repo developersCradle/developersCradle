@@ -91,8 +91,12 @@ $$
 - 💻 **High School**: Got a stipend for creating and maintaining our school homepage! 
 
 <p align="center">
-  <a href="https://github.com/developersCradle/certification-chest#High_School_Stipend_Yearly_Report?trk=public_profile_see-credential">
-    <img src="Mouse_Middle.PNG" width="35" height="40" alt="Check here!">
+  <a href="https://github.com/developersCradle/certification-chest#High_School_Stipend_Yearly_Report_Certificate_Unofficial?trk=public_profile_see-credential">
+    <img 
+    src="Mouse_Middle.PNG" 
+    width="35" 
+    height="40" 
+    alt="Click here!">
   </a><br>
   <a href="https://github.com/developersCradle/certification-chest#High_School_Stipend_Yearly_Report?trk=public_profile_see-credential">
     <b>Check here.</b>
@@ -104,7 +108,7 @@ $$
 
 <p id="DOOM_About_Me" align="center">
   <a href="https://www.youtube.com/watch?v=uQ46pszXMfk">
-    <img src="I_Liked_DOOM_Two.png" width="450"  height="250">
+    <img src="I_Liked_DOOM_Two.png" width="450" height="250">
   </a>
 </p>
 
@@ -148,7 +152,10 @@ $$
 
   <p>Remember to check website!</p>
   <a href="https://developerscradle.github.io/">
-    <img src="Homepage_Rotating_Earth.webp" alt="Homepage animation!" width="200"/>
+    <img src="Homepage_Rotating_Earth.webp"
+    alt="Homepage animation!"
+    width="200"
+    />
   </a>
 
   <hr>
@@ -156,7 +163,7 @@ $$
   <p>Also, remember to drop feedback!</p>
   
   <a href="https://github.com/developersCradle/developersCradle/issues">
-    <img src="guestBook.gif" alt="Guest book, ei mulla ole vieraita ole, vain vieraita naisia!" align="center" width="300">
+    <img src="Guest_Book.gif" alt="Guest book, ei mulla ole vieraita ole, vain vieraita naisia!" align="center" width="300">
   </a>
 
 </div>
@@ -165,15 +172,51 @@ $$
 <hr>
 
 <p align="center">
-  <img src="Cool_Banner_Second_Iteration.gif" alt="Einste On FIRE!" width="400"/>
+  <img src="Cool_Banner_Second_Iteration.gif" alt="Einstei on fire!" width="400"/>
 </p>
 
 
 
-
+<hr>
 
 
 
 
 
  
+<h4 align="center">Work Values:</h4>
+
+<p align="center">
+  <em><span style="color:green">Collective / Synergy</span>
+  over <span style="color:red">Competition</span> . As long →</em>
+</p>
+
+<p align="center">
+  <em>In tech, there is too much information for one to rule.
+  That being said, you should try your best, since you were
+  accepted in the first place.</em>
+</p>
+
+<h4 align="center">Sports:</h4>
+
+<p align="center">
+  <em><span style="color:green">Gym / Walking</span>
+  over <span style="color:red">Intense sports</span></em>
+</p>
+
+<h4 align="center">Learning Style:</h4>
+
+<p align="center">
+  <em><span style="color:green">Systematic Approach</span>
+  over <span style="color:red">Material Is Trivial / Scattered</span></em>
+</p>
+
+<p align="center">
+  <em><span style="color:green">Applied Learning Style</span>
+  over <span style="color:red">The Academic In Papers Way</span></em>
+  . <strong>Note</strong> →
+</p>
+
+<p align="center">
+  <em>These both are good. Just picked my favorite.</em>
+</p>
